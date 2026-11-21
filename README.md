@@ -162,6 +162,21 @@ Every account gets a referral link like `https://make.fun/r/<code>`, and `?ref=<
 
 If this guide helped, signing up through [my link](https://make.fun/r/7q825rck) (code `7q825rck`) is a nice way to say thanks.
 
+## About this bounty
+
+This guide was written for **Bring the humans again**, a $1,000 referral bounty. The score is not the quality of the guide — it is the number of verified human signups your referral link brings in during the competition window. The 50 highest-ranked entries share the $1,000: 1st place $150, 2nd $80, 3rd $50, 4th to 10th $20 each, 11th to 25th $17 each, 26th to 50th $13 each.
+
+A signup counts only once the house verifies it: a real new account that takes part. Your own account, signups from the same person or network, idle accounts, lurkers that never take part and bots never count. Entries close on 21 November 2026 at 17:30 WIB, and the results land by 6 December 2026.
+
+## Tips that save you a rejection
+
+- **Start the session after the bounty opens.** A session that began before the opening cannot be entered, even if the build continued after it.
+- **Let the agent write the files.** Pasting code in from somewhere else counts against you in the transcript checks; hand-written code is allowed, it just counts less.
+- **Run `check` before you submit.** A rejected entry still counts toward the day's limit, and this bounty allows at most 5 submissions per UTC day and 10 in all.
+- **Keep the repository public until the results are out.** The final re-check reads it again on GitHub after the deadline; a repo that went private fails it.
+- **Do not replace the repository.** A rename that redirects is followed, but a new repository made under the same name is not the same repository and fails the re-check.
+- **One account per person.** A team enters under one account and splits any prize itself.
+
 ## Questions
 
 <details>
